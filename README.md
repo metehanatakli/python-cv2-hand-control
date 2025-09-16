@@ -1,1 +1,1 @@
-Tuğba hocam çalıştırmak için 2 yöntem var ya git clone ile clone leyip çalıştırmak yada main.py içindeki kodu kendi IDE nize aktarıp kütüphaneleri kurabilirsiniz ardında çalıştırabilirsiniz
+Tuğba hocam çalıştırmak için 2 yöntem var ya git clone ile clone leyip sonra pip install -r requirements.txt yazarak kütüphaneleri kurup ardından python main.py yapıp çalıştırabilirsiniz yada main.py içindeki kodu kendi IDE nize aktarıp kütüphaneleri elle kurabilirsiniz benim önerim 1. numara olan seçenek yani git clone
